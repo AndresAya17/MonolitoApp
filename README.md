@@ -1,6 +1,4 @@
-<h1 align="center"> APP JAVA MONOLITO </h1>
-
-📦 Product API with Authentication & Authorization
+<h1 align="center"> 📦 Product API with Authentication & Authorization </h1>
 
 🛠️ Proyecto en Java
 Este proyecto está desarrollado en Java utilizando Spring Boot para proporcionar una API segura y funcional con las siguientes características principales:

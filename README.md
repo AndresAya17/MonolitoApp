@@ -1,7 +1,7 @@
 
 # 📦 Product API with Authentication & Authorization
 
-![Java](https://img.shields.io/badge/Java-17-blue.svg) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-green.svg) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue.svg) ![Maven](https://img.shields.io/badge/Maven-3.8.6-C71A36.svg)
+![Java](https://img.shields.io/badge/Java-17-blue.svg) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-green.svg) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue.svg) ![Maven](https://img.shields.io/badge/Maven-3.8.6-C71A36.svg) ![Docker](https://img.shields.io/badge/Docker-20.10-blue.svg)
 
 ## 🛠️ Proyecto en Java
 
@@ -28,10 +28,4 @@ Este proyecto está desarrollado en **Java** utilizando **Spring Boot** para pro
 - **JWT** para autenticación y autorización
 - **PostgreSQL** como base de datos
 - **Maven** para gestión de dependencias
-
-## 🔧 Cómo ejecutar el proyecto
-
-1. Clonar el repositorio:
-
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+- **Docker** para contenerización de la base de datos
